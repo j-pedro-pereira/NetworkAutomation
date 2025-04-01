@@ -8,4 +8,4 @@ On these notebooks are various scripts that can be used in networking automation
 I hereby declare that this script is provided freely and may be used, modified, and distributed without restriction. I grant permission for anyone to use this script for any purposes. 
 
 ## ⚠️Disclaimer:
-The author is **NOT responsible** for any misuse, damage, data loss, security risks, or unintended consequences resulting from the use of this script. By using this script, you accept full responsibility for its application and agree that the author shall not be held liable for any claims, damages, or liabilities arising from its use.
+The author is **NOT responsible** for any misuse, damage, data loss, security risks, or unintended consequences resulting from the use of these scripts. By using this script, you accept full responsibility for its application and agree that the author shall not be held liable for any claims, damages, or liabilities arising from its use.
