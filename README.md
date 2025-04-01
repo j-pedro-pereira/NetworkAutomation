@@ -4,8 +4,6 @@ On these notebooks are various scripts that can be used in networking automation
 
 >This scripts are made for **ExtremeXOS**. In case of script alteration, take in mind that commands may be different from firmware to firmware.
 
-Suggestions and changes can be sent to: j.pedro.pereira0719@gmail.com
-
 ## Permission Notice
 I hereby declare that this script is provided freely and may be used, modified, and distributed without restriction. I grant permission for anyone to use this script for any purposes. 
 
